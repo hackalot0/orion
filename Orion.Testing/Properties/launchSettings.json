@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Orion.Testing": {
+      "commandName": "Project",
+      "commandLineArgs": "-test"
+    }
+  }
+}
